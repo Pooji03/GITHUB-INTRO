@@ -1,0 +1,12 @@
+
+        body{
+            background-image:url("") ;
+            background-repeat: no-repeat;
+        }
+        h1{
+            color: aqua;
+            font-weight: 10px;
+        }
+        p{
+            background-color: bisque;
+        }
